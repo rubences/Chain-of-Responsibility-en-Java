@@ -1,7 +1,6 @@
 package carpeta;
 
 import middleware.Middleware;
-
 import java.util.HashMap;
 import java.util.Map;
 
